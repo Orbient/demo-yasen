@@ -1,0 +1,1 @@
+var e=(e=``)=>`${`/demo-yasen`.replace(/\/$/,``)}/${e.replace(/^\//,``)}`;export{e as t};
